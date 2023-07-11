@@ -1,1 +1,10 @@
-This is a work in progress. Need to work on front end of the app.
+Packages that need to be installed:
+
+npm install react
+
+Axios
+
+npm install @material-ui/core
+
+npm install react-chartjs-2 chart.js
+
